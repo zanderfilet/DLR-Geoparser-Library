@@ -76,7 +76,7 @@ This is the big function, which lets you graph coordinates of addresses, but it 
 
 6. **save_plot and plot_filename**. By default, `map_coords()` function will not save the plot for you, but you can set it to do so by setting the parameter `save_plot = True`. You can also manually set the filename instead of the default "output" with `plot_filename = your_filename`.
 
-# WGP.url2text(url)
+#### WGP.url2text(url)
 
 This function lets you input a URL and it returns the **raw visible text** on that website as a string. <br/>
 
